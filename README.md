@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there,I'am Ali Slim
+I'am a beginner python programmer sharing my learning journey on GitHub.
 
 <!--
 **AliSlim101/ALISLIM101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
